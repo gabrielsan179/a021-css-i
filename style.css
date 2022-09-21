@@ -1,0 +1,31 @@
+.bloco{
+    width: 300px;
+    color: white;
+    font-family: Helvetica;
+    padding-left: 20px;
+    margin: 15px;
+}
+
+#bloco-1{
+    background-color: orange;
+    border: solid rgb(255, 207, 118) 5px;
+}
+
+#bloco-2{
+    background-color: green;
+    border: solid rgb(0, 255, 0) 5px;
+}
+
+#bloco-3{
+    background-color: rgb(0, 72, 0);
+    border: dashed green 5px;
+}
+
+#bloco-4{
+    background-color: red;
+    border: dashed pink 5px;
+}
+
+p{
+    margin-top: -15px;
+}
